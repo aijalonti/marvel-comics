@@ -7,7 +7,7 @@
 ### :computer: Como rodar
 Primeiro você precisa ter o [Node.js](https://nodejs.org/en/) instalado no seu computador.
 
-Com o Node instalado, você usar o npm(já vem junto com a instalação do Node) ou usar o [Yarn](https://yarnpkg.com/).
+Com o Node instalado, você pode usar o npm(já vem junto com a instalação do Node) ou usar o [Yarn](https://yarnpkg.com/).
 
 Após configurar seu ambiente, clone esses repositório com o comando `git clone https://github.com/aijalonti/marvel-comics.git`.
 
